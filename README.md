@@ -1,3 +1,4 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=PeaceDate&style=flat-square&color=yellow">
 <img src="img/4th.png" style="width: 100%; height: auto">
 <h1 align="center">Hi, I'm Andrii!👋
 <h3 align="center">An Automation QA Engineer from Ukraine 🇺🇦</p></h1>
@@ -16,6 +17,8 @@
         <img width="65" height="20" src="https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=black">
         <img width="70" height="20" src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white">
     </div>
+    <h1 style="font-size: 20px;">Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=PeaceDate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=22272e&text_color=F7DF1E&icon_color=F7DF1E&title_color=F7DF1E&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceDate&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=22272e&text_color=F7DF1E&icon_color=F7DF1E&title_color=F7DF1E&include_all_commits=true&count_private=true&card_width">
     <h1 style="font-size: 20px;">Contacts</h2>
-    <a ></a>
 </div>
