@@ -6,10 +6,7 @@
 
 <h1 style="font-family: 'Press Start 2P', cursive; font-size: 12px;">Hi, there!👋</br> My name is, Andrii. </h2>
 
-<div style="align-items:center;
-    display: flex;
-    flex-direction: column;
-">
+<div align="center"">
     <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">Tech Stack</h2>
     <div style="padding: 0; margin: 10px">
         <img width="80" height="20" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
