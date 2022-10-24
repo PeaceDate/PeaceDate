@@ -1,10 +1,24 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PeaceDate&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PeaceDate&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceDate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/may-the-force-be-with-you-classic-version-dafydd-jones.jpg" style="max-width: 100% height: auto;">
 
-[![](https://visitcount.itsvg.in/api?id=PeaceDate&icon=6&color=10)](https://visitcount.itsvg.in)
+<h1 style="font-family: 'Press Start 2P', cursive; font-size: 12px;">Hi, there!👋</br> My name is, Andrii. </h2>
 
+<div style="align-items:center;
+    display: flex;
+    flex-direction: column;
+">
+    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">Tech Stack</h2>
+    <div style="padding: 0; margin: 10px">
+        <img width="80" height="20" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+        <img width="80" height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img width="60" height="20" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+        <img width="60" height="20" src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black">
+        <img width="50" height="20" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+        <img width="60" height="20" src="https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=black">
+        <img width="50" height="20" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white">
+    </div>
+    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 20px;">Contacts</h2>
+</div>
