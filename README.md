@@ -18,9 +18,9 @@
         <img width="70" height="20" src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white">
     </div>
     <h1 style="font-size: 20px;">Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=PeaceDate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=22272e&text_color=F7DF1E&icon_color=F7DF1E&title_color=F7DF1E&include_all_commits=true&card_width=500px&count_private=true">
+    <img src="https://github-readme-stats-fkkqar4mp-peacedate.vercel.app/api?username=PeaceDate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=22272e&text_color=F7DF1E&icon_color=F7DF1E&title_color=F7DF1E&include_all_commits=true&card_width=500px&count_private=true">
     </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceDate&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=22272e&text_color=F7DF1E&icon_color=F7DF1E&title_color=F7DF1E&include_all_commits=true&count_private=true&card_width=450">
+    <img src="https://github-readme-stats-fkkqar4mp-peacedate.vercel.app/api/top-langs/?username=PeaceDate&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=22272e&text_color=F7DF1E&icon_color=F7DF1E&title_color=F7DF1E&include_all_commits=true&count_private=true&card_width=450">
     <h1 style="font-size: 20px;">Social</h2>
     <a target="_blank" href="https://www.linkedin.com/in/andrii-sydorov-490526138/"><img width="80" height="20" src="https://img.shields.io/badge/LinkedIn-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=black"></a>
     <a target="_blank" href="https://www.instagram.com/andreysidar/"><img width="80" height="20" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
