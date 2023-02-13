@@ -1,4 +1,7 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=PeaceDate&style=flat-square&color=yellow">
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=PeaceDate&style=flat-square&color=yellow">
+    <img align="right" src="https://www.codewars.com/users/PeaceDate/badges/micro">
+</div>
 <img src="img/4th.png" style="width: 100%; height: auto">
 <h1 align="center">Hi, I'm Andrii!👋
 <h3 align="center">Automation QA Engineer from Ukraine 🇺🇦</p></h1>
