@@ -4,9 +4,9 @@
 </div>
 <img src="img/4th.png" style="width: 100%; height: auto">
 <h1 align="center">Hi, I'm Andrii!👋
-<h3 align="center">Automation QA Engineer from Ukraine 🇺🇦</p></h1>
+<h3 align="center">Senior Automation QA Engineer from Ukraine 🇺🇦</p></h1>
 <h3 align="center">Currently working at 👉
-<a href="https://valor-software.com/" style="color: #e0234d">Valor Software</a>👈</h1>
+<a href="https://expoplatform.com/" style="color: #e0234d">ExpoPlatform</a>👈</h1>
 <div align="center"">
     <h1 style="font-size: 20px;">Tech Stack:</h2>
     <div style="padding: 0; margin: 10px">
